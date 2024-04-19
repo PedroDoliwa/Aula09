@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+footer{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.sub-esporte{
+    width: 20%;
+    background-color: gray;
+    padding: 50px;
+    float: left;
+    height: 100%;
+
+}
+
+.menu{
+    display:flex;
+    justify-content: center;
+    background-color:azure;
+    padding: 10px;
+}
+
+section{
+    width: 80%;
+    background-color: lightgray;
+    padding: 50px;
+    float: left;
+    height: 100%;
+}
+
+ul{
+    list-style: none;
+    padding-top: 50px;
+    
+}
+
+.lateral{
+    padding-top: 40px;
+    font-size: 30px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 50px;
+
+    
+}
+main{
+    height: 500px;
+}
